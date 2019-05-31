@@ -1,5 +1,4 @@
-Docker container hosting a Cantaloupe instance for the [Illinois Digital
-Library Service](https://digital.library.illinois.edu/).
+Docker container hosting a Cantaloupe instance for the [Illinois Data Bank](https://databank.library.illinois.edu/).
 
 # Instance Overview
 
